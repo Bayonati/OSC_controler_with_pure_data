@@ -14,5 +14,9 @@ We developed an OSC control interface with custom buttons and sliders to establi
 
 ---
 
+## Video Link
+
+The link to the video is the following: https://youtu.be/cKcmv8JUCT0
+
 
 The project was developed following core **Clean Code** principles to ensure that the source code (the Pure Data patch and its logic) is highly readable, maintainable, and easily extensible.
